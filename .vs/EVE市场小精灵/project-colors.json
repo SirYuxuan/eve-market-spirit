@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f115730-3e2b-4ccd-a619-84a0e99d51c4": {
+      "ProjectGuid": "8f115730-3e2b-4ccd-a619-84a0e99d51c4",
+      "DisplayName": "EVE市场小精灵",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
